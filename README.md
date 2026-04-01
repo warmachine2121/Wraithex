@@ -6,7 +6,7 @@ A live cryptocurrency market dashboard with real-time price feeds, privacy scori
 
 ## Features
 
-- **Live prices** — 13 coins via CoinGecko (60s cache)
+- **Live prices** — 50 coins via CoinGecko (60s cache)
 - **Real-time BTC & XMR ticker** — Bitfinex WebSocket, ticks on every trade
 - **Gold vs Crypto panel** — PAXG live gold price, portability and privacy comparison
 - **Privacy scoring** — XMR vs BTC, ETH, ZEC across 5 technical metrics
